@@ -1,9 +1,17 @@
 body {
-    background: center;
+    background: CCCCCC;
 } 
+
+h1{
+    text-align: center
+}
 
 p {
     text-align: center;
+}
+
+#missão{
+    font-size: 20px
 }
 
 em stong {
